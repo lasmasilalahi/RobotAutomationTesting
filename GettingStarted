@@ -1,0 +1,10 @@
+If you want to start to explore automation testing on robot framework you need to do below step:
+1. Download python in https://www.python.org/downloads/
+2. Run the file
+2. Add new enviroment C:\Python27; C:\Python27\Scripts into your path
+4. Verify your Phyton version by command python --version
+5. Install robot framework by using command:  pip install robotframework 
+6.  Install Selenium2Library by using command : pip install robotframework-selenium2library
+7. Install Selenium Library by using command : pip install -U selenium
+8.  Install the Selenium robot framework IDE - RIDE by using command : pip install robotframework-ride
+9. Verify RIDE Installation by using command :  ride.py 
